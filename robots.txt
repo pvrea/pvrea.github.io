@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pvrea.github.io/Ofk/sitemap.Ofk.gz
